@@ -19,12 +19,12 @@
   ],
   "require": {
     "php": ">=7.2",
-    "illuminate/auth": "^6.0|^7.0",
-    "illuminate/config": "^6.0|^7.0",
-    "illuminate/contracts": "^6.0|^7.0",
-    "illuminate/support": "^6.0|^7.0",
-    "illuminate/http": "^6.0|^7.0",
-    "laravel-doctrine/orm": "^1.5"
+    "illuminate/auth": "^6.0",
+    "illuminate/config": "^6.0",
+    "illuminate/contracts": "^6.0",
+    "illuminate/support": "^6.0",
+    "illuminate/http": "^6.0",
+    "laravel-doctrine/orm": "1.5.*"
   },
   "suggest": {
     "gedmo/doctrine-extensions": "Behavioral Doctrine2 extensions (^2.4)",
